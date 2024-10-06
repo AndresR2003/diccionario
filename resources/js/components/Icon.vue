@@ -17,8 +17,4 @@ export default {
     },
 };
 </script>
-<style scoped>
-* {
-    color: black;
-}
-</style>
+<style scoped></style>
